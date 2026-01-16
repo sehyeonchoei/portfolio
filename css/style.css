@@ -124,14 +124,14 @@ figure {
   object-fit: cover;
 }
 
-#fh5co-header .overlay {
+/* #fh5co-header .overlay {
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
   z-index: 1;
-}
+} */
 
 #fh5co-header .container {
   position: absolute;
