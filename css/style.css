@@ -142,8 +142,10 @@ figure {
   z-index: 2;
 }
 
-.row {
-    vertical-align: middle;
+#fh5co-header .container,
+#fh5co-header .row,
+#fh5co-header .col-md-8 {
+  height: 100%;
 }
 
 .display-t {
@@ -156,6 +158,7 @@ figure {
     display: table-cell;
     vertical-align: middle;
     text-align: center;
+    height: 100%;
 }
 
 .profile-thumb {
