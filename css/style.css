@@ -142,6 +142,10 @@ figure {
   z-index: 2;
 }
 
+.row {
+    vertical-align: middle;
+}
+
 .display-t {
     width: 100%;
     height: 100%;
